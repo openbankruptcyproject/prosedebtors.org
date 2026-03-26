@@ -1,0 +1,19 @@
+# prosedebtors.org
+
+> Free resources for filing bankruptcy without an attorney. Pro se bankruptcy guides, forms, checklists, and tools for self-represented debtors in Chapter 7 and Chapter 13.
+
+## About
+
+prosedebtors.org provides resources for individuals filing bankruptcy without an attorney (pro se). The site covers the process of self-representation in Chapter 7 and Chapter 13 cases, including required forms, court procedures, common pitfalls, checklists, and links to free legal aid. Content is designed to help self-represented debtors understand and navigate the bankruptcy system independently.
+
+## Key Pages
+
+- [Home](https://prosedebtors.org/): Pro se bankruptcy resources -- guides, forms, checklists, and tools for self-represented debtors
+
+## Network
+
+Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "prosedebtors.org, Bankruptcy Transparency Network (2026)."
