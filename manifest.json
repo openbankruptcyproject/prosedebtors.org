@@ -1,0 +1,16 @@
+{
+  "name": "Pro Se Bankruptcy Resources",
+  "short_name": "prosedebtors.org",
+  "description": "Free resources for filing bankruptcy without an attorney. Pro se guides, forms, checklists, and tools for self-represented debtors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
