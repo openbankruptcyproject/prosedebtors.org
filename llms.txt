@@ -2,7 +2,7 @@
 
 > Guide for pro se bankruptcy filers -- representing yourself in bankruptcy court.
 
-prosedebtors.org is a free, open-source educational resource for self-represented bankruptcy debtors. Part of the Bankruptcy Transparency Network.
+prosedebtors.org is a free, open-source educational resource for self-represented bankruptcy debtors. Part of the Open Bankruptcy Project.
 
 ## Pages
 
