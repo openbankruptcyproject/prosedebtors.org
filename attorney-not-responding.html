@@ -145,14 +145,21 @@
 </head>
 <body>
 
-<nav aria-label="Site navigation">
+<nav role="navigation" aria-label="Site navigation">
   <a href="/" class="site-name">prosedebtors.org</a>
-  <button class="hamburger" aria-label="Toggle menu" aria-expanded="false" onclick="this.nextElementSibling.classList.toggle('open');this.setAttribute('aria-expanded',this.nextElementSibling.classList.contains('open'))">&#9776;</button>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="/">Pro Se Bankruptcy</a>
-    <a href="/attorney-not-responding.html" style="color:var(--accent);font-weight:600">Attorney Not Responding</a>
-    <a href="https://1328f.com/check.html">Eligibility Screener</a>
-    <a href="https://1328f.org/">Research</a>
+    <a href="/">Home</a>
+    <a href="/chapter-7-pro-se.html">Ch.7 Pro Se</a>
+    <a href="/chapter-13-pro-se.html">Ch.13 Pro Se</a>
+    <a href="/document-checklist.html">Documents</a>
+    <a href="/free-help.html">Free Help</a>
+    <a href="/attorney-not-responding.html" class="active">Attorney Issues</a>
+    <a href="/checklist.html">Filing Checklist</a>
+    <a href="/common-mistakes.html">Common Mistakes</a>
+    <a href="/forms-guide.html">Forms Guide</a>
+    <a href="/court-procedures.html">Court Procedures</a>
+    <a href="/local-rules.html">Local Rules</a>
   </div>
 </nav>
 

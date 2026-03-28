@@ -132,17 +132,21 @@
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 
-<nav aria-label="Site navigation">
-  <div class="nav-inner">
-    <span class="nav-brand">prosedebtors.org</span>
-    <button class="hamburger" aria-label="Toggle menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
-    <div class="nav-links">
-      <a href="/">Home</a>
-      <a href="/chapter-7-pro-se.html" class="active">Chapter 7 Pro Se</a>
-      <a href="/chapter-13-pro-se.html">Chapter 13 Pro Se</a>
-      <a href="/free-help.html">Free Help</a>
-      <a href="https://voluntarypetition.org">Forms &amp; Filing</a>
-    </div>
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">prosedebtors.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/chapter-7-pro-se.html" class="active">Ch.7 Pro Se</a>
+    <a href="/chapter-13-pro-se.html">Ch.13 Pro Se</a>
+    <a href="/document-checklist.html">Documents</a>
+    <a href="/free-help.html">Free Help</a>
+    <a href="/attorney-not-responding.html">Attorney Issues</a>
+    <a href="/checklist.html">Filing Checklist</a>
+    <a href="/common-mistakes.html">Common Mistakes</a>
+    <a href="/forms-guide.html">Forms Guide</a>
+    <a href="/court-procedures.html">Court Procedures</a>
+    <a href="/local-rules.html">Local Rules</a>
   </div>
 </nav>
 
