@@ -1,63 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
-  <url>
-    <loc>https://prosedebtors.org/.pushed_document-checklist.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://prosedebtors.org/attorney-not-responding.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/chapter-13-pro-se.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/chapter-7-pro-se.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/checklist.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/common-mistakes.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/court-procedures.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/document-checklist.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/forms-guide.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/free-help.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://prosedebtors.org/local-rules.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
