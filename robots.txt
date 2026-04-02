@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://prosedebtors.org/sitemap.xml
+
+Sitemap: https://prosedebtors.org/sitemap.xml
