@@ -1,18 +1,27 @@
-# prosedebtors.org
+# Pro Se Debtors -- Self-Represented Bankruptcy Guide [2026]
+> Resources for pro se debtors filing bankruptcy without an attorney. Court rules, forms, and common pitfalls. 2026 guide.
 
-> Guide for pro se bankruptcy filers -- representing yourself in bankruptcy court.
+## About
+prosedebtors.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-prosedebtors.org is a free, open-source educational resource for self-represented bankruptcy debtors. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://prosedebtors.org/: Overview of filing bankruptcy without an attorney
-- https://prosedebtors.org/chapter-7-pro-se.html: Filing Chapter 7 pro se -- step-by-step guide
-- https://prosedebtors.org/chapter-13-pro-se.html: Filing Chapter 13 pro se -- challenges and requirements
-- https://prosedebtors.org/document-checklist.html: Document checklist for pro se filers
-- https://prosedebtors.org/attorney-not-responding.html: What to do when your bankruptcy attorney stops responding
-- https://prosedebtors.org/free-help.html: Free and low-cost bankruptcy help -- legal aid, clinics, pro bono
+## Key Pages
+- My Bankruptcy Attorney Is Not Returning My Calls -- What Do I Do? -- Pro Se Debtors: https://prosedebtors.org/attorney-not-responding.html
+- Chapter 13 Without a Lawyer: Why It's So Hard -- Pro Se Debtors: https://prosedebtors.org/chapter-13-pro-se.html
+- Filing Chapter 7 Without a Lawyer -- Pro Se Debtors: https://prosedebtors.org/chapter-7-pro-se.html
+- Pro Se Bankruptcy Filing Checklist -- Pro Se Debtors: https://prosedebtors.org/checklist.html
+- Pro Se Bankruptcy Mistakes That Lead to Dismissal -- Pro Se Debtors: https://prosedebtors.org/common-mistakes.html
+- Bankruptcy Court Procedures for Pro Se Debtors: https://prosedebtors.org/court-procedures.html
+- Bankruptcy Filing Document Checklist -- Every Form and Document You Need -- Pro Se Debtors: https://prosedebtors.org/document-checklist.html
+- Bankruptcy Forms Guide for Pro Se Chapter 7 Filers -- Pro Se Debtors: https://prosedebtors.org/forms-guide.html
+- Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources -- Pro Se Debtors: https://prosedebtors.org/free-help.html
+- Pro Se Debtors -- Self-Represented Bankruptcy Guide: https://prosedebtors.org/
+- Local Bankruptcy Rules -- Why They Matter for Pro Se Filers -- Pro Se Debtors: https://prosedebtors.org/local-rules.html
+- Pro Se Debtor Rights in Bankruptcy Court -- Pro Se Debtors: https://prosedebtors.org/pro-se-debtor-rights.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
