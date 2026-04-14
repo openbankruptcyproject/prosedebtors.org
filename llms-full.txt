@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## My Bankruptcy Attorney Is Not Returning My Calls -- What Do I Do? -- Pro Se Debtors
+## My Bankruptcy Attorney Is Not Returning My Calls - What Do I Do? - Pro Se Debtors
 Source: https://prosedebtors.org/attorney-not-responding.html
 
 prosedebtors.org
@@ -26,15 +26,15 @@ Local Rules
 
 Pro Se Bankruptcy › Attorney Not Responding
 
-My Bankruptcy Attorney Is Not Returning My Calls -- What Do I Do?
+My Bankruptcy Attorney Is Not Returning My Calls - What Do I Do?
 
 A guide for bankruptcy clients | Part of the Open Bankruptcy Project
 
-You are not alone. "My attorney won't return my calls" is one of the most common complaints in consumer bankruptcy. It does not mean your case is doomed -- but it does mean you need to take action to protect yourself. This page walks through your options step by step.
+You are not alone. "My attorney won't return my calls" is one of the most common complaints in consumer bankruptcy. It does not mean your case is doomed - but it does mean you need to take action to protect yourself. This page walks through your options step by step.
 
 Before You Escalate: Try Everything
 
-Try every contact method. Call the main office number, your attorney's direct line (if you have one), and email. If the firm has a website with a contact form, use that too. Try at different times of day -- mornings are often best.
+Try every contact method. Call the main office number, your attorney's direct line (if you have one), and email. If the firm has a website with a contact form, use that too. Try at different times of day - mornings are often best.
 
 Contact the paralegal or assistant. In many bankruptcy firms, a paralegal handles day-to-day case management. If you have ever spoken with anyone at the firm other than your attorney, try reaching them directly. They may be able to get you an update or schedule a call.
 
@@ -54,7 +54,7 @@ Duty of competence. Missing deadlines, failing to file required documents, or ig
 
 Duty regarding fees. If you paid your attorney and they are not performing services, you may be entitled to a refund of unearned fees. (Model Rule 1.16(d))
 
-These are not suggestions -- they are enforceable professional obligations. An attorney who fails to communicate with a client can face discipline from the state bar, including reprimand, suspension, or disbarment.
+These are not suggestions - they are enforceable professional obligations. An attorney who fails to communicate with a client can face discipline from the state bar, including reprimand, suspension, or disbarment.
 
 If They Still Will Not Respond
 
@@ -92,15 +92,15 @@ Find your state's disciplinary authority. Search "[your state] attorney discipli
 
 Gather your documentation. Include: your fee agreement or retainer, a log of your communication attempts (dates, times, methods), any emails or letters exchanged, your case number, and a clear description of the problem.
 
-File the complaint. Most state bars accept complaints online. The complaint does not need to be written by a lawyer. Describe what happened in your own words -- focus on facts, dates, and what your attorney did or did not do.
+File the complaint. Most state bars accept complaints online. The complaint does not need to be written by a lawyer. Describe what happened in your own words - focus on facts, dates, and what your attorney did or did not do.
 
 What happens next. The disciplinary authority will review your complaint, contact your attorney for a response, and investigate. Possible outcomes range from dismissal (if the conduct does not rise to a violation) to private reprimand, public censure, suspension, or disbarment. The process typically takes several months.
 
-A bar complaint is not a lawsuit. Filing a bar complaint does not get you money back and does not resolve your bankruptcy case. It holds your attorney accountable for professional misconduct. If you want to recover fees or damages, that is a separate malpractice claim -- consider consulting a legal malpractice attorney.
+A bar complaint is not a lawsuit. Filing a bar complaint does not get you money back and does not resolve your bankruptcy case. It holds your attorney accountable for professional misconduct. If you want to recover fees or damages, that is a separate malpractice claim - consider consulting a legal malpractice attorney.
 
 Red Flags That Suggest a Bigger Problem
 
-Sometimes non-communication is not just poor customer service -- it is a sign of deeper issues:
+Sometimes non-communication is not just poor customer service - it is a sign of deeper issues:
 
 Your attorney missed a court deadline and is avoiding you because of it
 
@@ -118,11 +118,11 @@ How to Check Your Attorney's Track Record
 
 If you are wondering whether your experience is an isolated incident or part of a pattern, you can look up your attorney's case outcomes using public data:
 
-1328f.com Eligibility Screener -- free tool that checks discharge bar eligibility across all 94 federal bankruptcy districts
+1328f.com Eligibility Screener - free tool that checks discharge bar eligibility across all 94 federal bankruptcy districts
 
-PACER Case Locator -- search for all cases filed by your attorney and check the outcomes (dismissed vs. discharged)
+PACER Case Locator - search for all cases filed by your attorney and check the outcomes (dismissed vs. discharged)
 
-Your state bar's attorney search -- check for any prior disciplinary actions against your attorney
+Your state bar's attorney search - check for any prior disciplinary actions against your attorney
 
 Related Resources
 
@@ -146,7 +146,7 @@ What to expect →
 
 Can I File Again?
 
-If your case was dismissed because of attorney neglect, you may be able to refile -- but timing rules apply.
+If your case was dismissed because of attorney neglect, you may be able to refile - but timing rules apply.
 
 Check eligibility →
 
@@ -215,7 +215,7 @@ bankruptcycost.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-prosedebtors.org -- Part of the Open Bankruptcy Project
+prosedebtors.org - Part of the Open Bankruptcy Project
 
 Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
 
@@ -262,7 +262,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Chapter 13 Without a Lawyer: Why It's So Hard -- Pro Se Debtors
+## Chapter 13 Without a Lawyer: Why It's So Hard - Pro Se Debtors
 Source: https://prosedebtors.org/chapter-13-pro-se.html
 
 Skip to content
@@ -282,11 +282,13 @@ Forms Guide
 Court Procedures
 Local Rules
 
+Home›Chapter 13 Pro Se
+
 Chapter 13 Without a Lawyer: Why It Is So Hard
 
 Pro se Chapter 13 has a dismissal rate above 90% in most districts. Here is why.
 
-Chapter 13 bankruptcy is fundamentally different from Chapter 7. Instead of a quick liquidation, you propose a repayment plan that lasts 3 to 5 years. You must draft a plan that satisfies the Bankruptcy Code's requirements, get it confirmed by the court, make monthly payments to a trustee, and comply with ongoing obligations for the entire plan duration. Any misstep -- a missed payment, a failed modification, an unaddressed change in income -- can result in dismissal.
+Chapter 13 bankruptcy is fundamentally different from Chapter 7. Instead of a quick liquidation, you propose a repayment plan that lasts 3 to 5 years. You must draft a plan that satisfies the Bankruptcy Code's requirements, get it confirmed by the court, make monthly payments to a trustee, and comply with ongoing obligations for the entire plan duration. Any misstep - a missed payment, a failed modification, an unaddressed change in income - can result in dismissal.
 
 For represented debtors, the national Chapter 13 completion rate hovers around 33% to 40%. For pro se filers, completion rates drop to below 10%. In many districts, not a single pro se Chapter 13 case reaches discharge in a given year.
 
@@ -300,17 +302,17 @@ Chapter 7 is a snapshot: you file your paperwork, attend one meeting, and wait f
 
 The Chapter 13 plan is a legal document that must comply with multiple sections of the Bankruptcy Code simultaneously. Your plan must:
 
-Pay priority claims in full -- including recent tax debts and domestic support obligations (Section 1322(a)(2))
+Pay priority claims in full - including recent tax debts and domestic support obligations (Section 1322(a)(2))
 
-Propose adequate payments to secured creditors -- with interest at the appropriate rate, and the plan must address what happens to each secured claim (surrender, retain, or cramdown)
+Propose adequate payments to secured creditors - with interest at the appropriate rate, and the plan must address what happens to each secured claim (surrender, retain, or cramdown)
 
-Pass the "best interests" test -- unsecured creditors must receive at least as much as they would in a Chapter 7 liquidation (Section 1325(a)(4))
+Pass the "best interests" test - unsecured creditors must receive at least as much as they would in a Chapter 7 liquidation (Section 1325(a)(4))
 
-Pass the "disposable income" test -- all projected disposable income must be committed to the plan for the applicable commitment period (Section 1325(b))
+Pass the "disposable income" test - all projected disposable income must be committed to the plan for the applicable commitment period (Section 1325(b))
 
-Be feasible -- the court must find that you can actually make the proposed payments (Section 1325(a)(6))
+Be feasible - the court must find that you can actually make the proposed payments (Section 1325(a)(6))
 
-Getting all of these requirements right simultaneously requires detailed knowledge of bankruptcy law, local court rules, and the specific plan format your district uses. Most districts have a mandatory plan form -- and the instructions for completing it assume legal training.
+Getting all of these requirements right simultaneously requires detailed knowledge of bankruptcy law, local court rules, and the specific plan format your district uses. Most districts have a mandatory plan form - and the instructions for completing it assume legal training.
 
 2. The Confirmation Process
 
@@ -328,13 +330,13 @@ You must file your tax returns every year and provide copies to the trustee
 
 You cannot take on new debt without court approval
 
-If your income changes, you may need to modify the plan -- which means drafting a modified plan and getting it confirmed again
+If your income changes, you may need to modify the plan - which means drafting a modified plan and getting it confirmed again
 
 If you miss payments, the trustee will file a motion to dismiss
 
 If you need to sell property or refinance, you need court permission
 
-Each of these events requires understanding court procedures, filing motions, and meeting deadlines. Over a 3-to-5-year period, life changes are virtually guaranteed -- job loss, medical emergencies, car breakdowns, family changes. Each change may require a legal response.
+Each of these events requires understanding court procedures, filing motions, and meeting deadlines. Over a 3-to-5-year period, life changes are virtually guaranteed - job loss, medical emergencies, car breakdowns, family changes. Each change may require a legal response.
 
 4. Plan Modifications
 
@@ -342,19 +344,19 @@ When circumstances change during your plan, you need to file a motion to modify 
 
 5. Dealing With Creditor Motions
 
-During your plan, creditors can file motions for relief from the automatic stay -- asking the court for permission to repossess your car, foreclose on your home, or take other collection action. You must respond to these motions within the deadline (typically 14 days) or the motion is granted by default. Responding requires a written opposition and often a hearing.
+During your plan, creditors can file motions for relief from the automatic stay - asking the court for permission to repossess your car, foreclose on your home, or take other collection action. You must respond to these motions within the deadline (typically 14 days) or the motion is granted by default. Responding requires a written opposition and often a hearing.
 
 The Dismissal Cascade
 
 Pro se Chapter 13 cases tend to fail in a predictable pattern:
 
-Incomplete filing -- missing schedules or plan triggers a deficiency notice with a deadline. Many pro se filers cannot complete all required documents in time.
+Incomplete filing - missing schedules or plan triggers a deficiency notice with a deadline. Many pro se filers cannot complete all required documents in time.
 
-Plan objections -- the trustee objects to the plan for failing to meet one or more statutory tests. The pro se filer does not understand the objection or how to fix it.
+Plan objections - the trustee objects to the plan for failing to meet one or more statutory tests. The pro se filer does not understand the objection or how to fix it.
 
-Failed confirmation -- the plan is denied confirmation. The filer is given time to amend but cannot draft a compliant amendment.
+Failed confirmation - the plan is denied confirmation. The filer is given time to amend but cannot draft a compliant amendment.
 
-Missed payments -- even if confirmed, a single missed payment can start the dismissal process. Without an attorney to negotiate with the trustee, the case is dismissed.
+Missed payments - even if confirmed, a single missed payment can start the dismissal process. Without an attorney to negotiate with the trustee, the case is dismissed.
 
 This cascade explains why the pro se Chapter 13 success rate is so low. Each stage is a filter, and without legal knowledge, most filers cannot pass through all of them over a multi-year period.
 
@@ -366,27 +368,27 @@ Alternatives for People Who Cannot Afford a Chapter 13 Attorney
 
 If you need Chapter 13 but cannot afford an attorney, consider these options before attempting a pro se filing:
 
-Legal aid organizations -- some legal aid offices handle Chapter 13 cases for qualifying clients. See our free help guide.
+Legal aid organizations - some legal aid offices handle Chapter 13 cases for qualifying clients. See our free help guide.
 
-Law school clinics -- supervised students can handle the full case including plan drafting and confirmation hearings.
+Law school clinics - supervised students can handle the full case including plan drafting and confirmation hearings.
 
-Payment plans for attorney fees -- many Chapter 13 attorneys accept a reduced upfront payment and include the remainder of their fee in the Chapter 13 plan itself, meaning the trustee pays the attorney over time.
+Payment plans for attorney fees - many Chapter 13 attorneys accept a reduced upfront payment and include the remainder of their fee in the Chapter 13 plan itself, meaning the trustee pays the attorney over time.
 
-Chapter 7 instead -- if you qualify for Chapter 7, it is dramatically more manageable pro se. See our Chapter 7 pro se guide.
+Chapter 7 instead - if you qualify for Chapter 7, it is dramatically more manageable pro se. See our Chapter 7 pro se guide.
 
-Negotiate outside bankruptcy -- depending on your situation, negotiating directly with creditors may be a better path than an unsupported Chapter 13 filing.
+Negotiate outside bankruptcy - depending on your situation, negotiating directly with creditors may be a better path than an unsupported Chapter 13 filing.
 
 Related Guides
 
-Pro se bankruptcy overview -- when self-representation makes sense
+Pro se bankruptcy overview - when self-representation makes sense
 
-Chapter 7 pro se -- the more feasible option
+Chapter 7 pro se - the more feasible option
 
-Free bankruptcy help -- legal aid, clinics, and resources
+Free bankruptcy help - legal aid, clinics, and resources
 
 Bankruptcy forms and filing guide
 
-Interactive pro se rate map -- district-by-district data
+Interactive pro se rate map - district-by-district data
 
 What happens when your case is dismissed
 
@@ -508,7 +510,7 @@ Relief from Automatic Stay -- relieffromstay.org
 
 ---
 
-## Filing Chapter 7 Without a Lawyer -- Pro Se Debtors
+## Filing Chapter 7 Without a Lawyer - Pro Se Debtors
 Source: https://prosedebtors.org/chapter-7-pro-se.html
 
 Skip to content
@@ -528,11 +530,13 @@ Forms Guide
 Court Procedures
 Local Rules
 
+Home›Chapter 7 Pro Se
+
 Filing Chapter 7 Without a Lawyer
 
 A step-by-step guide to the most common pro se bankruptcy filing
 
-Chapter 7 is the most feasible type of bankruptcy to file without a lawyer. It is a liquidation proceeding -- the trustee reviews your assets, determines if anything can be sold to pay creditors, and if not (the vast majority of consumer cases are "no-asset"), your eligible debts are discharged. The entire process typically takes 3 to 4 months from filing to discharge.
+Chapter 7 is the most feasible type of bankruptcy to file without a lawyer. It is a liquidation proceeding - the trustee reviews your assets, determines if anything can be sold to pay creditors, and if not (the vast majority of consumer cases are "no-asset"), your eligible debts are discharged. The entire process typically takes 3 to 4 months from filing to discharge.
 
 That said, "more feasible" does not mean "easy." You are responsible for correctly completing every form, meeting every deadline, and attending every required proceeding. Here is what the process looks like, step by step.
 
@@ -548,7 +552,7 @@ Prior dismissal bars. If a previous case was dismissed within 180 days under cer
 
 Step 2: Complete Credit Counseling
 
-Federal law requires you to complete a credit counseling course from an approved provider within 180 days before filing. This is not optional -- your case will be dismissed if you file without the certificate. The course typically takes 60 to 90 minutes and costs $15 to $50. A list of approved providers is available on the U.S. Trustee's website. Learn more at creditcounselingbankruptcy.com.
+Federal law requires you to complete a credit counseling course from an approved provider within 180 days before filing. This is not optional - your case will be dismissed if you file without the certificate. The course typically takes 60 to 90 minutes and costs $15 to $50. A list of approved providers is available on the U.S. Trustee's website. Learn more at creditcounselingbankruptcy.com.
 
 Step 3: Gather Your Financial Documents
 
@@ -574,45 +578,45 @@ Step 4: Complete the Bankruptcy Forms
 
 This is the most time-consuming step. A complete Chapter 7 filing includes:
 
-Form 101 -- Voluntary Petition for Individuals Filing for Bankruptcy
+Form 101 - Voluntary Petition for Individuals Filing for Bankruptcy
 
-Form 106A/B -- Schedule A/B: Property (every asset you own or have an interest in)
+Form 106A/B - Schedule A/B: Property (every asset you own or have an interest in)
 
-Form 106C -- Schedule C: The Property You Claim as Exempt
+Form 106C - Schedule C: The Property You Claim as Exempt
 
-Form 106D -- Schedule D: Creditors Who Hold Claims Secured by Property
+Form 106D - Schedule D: Creditors Who Hold Claims Secured by Property
 
-Form 106E/F -- Schedule E/F: Creditors Who Have Unsecured Claims
+Form 106E/F - Schedule E/F: Creditors Who Have Unsecured Claims
 
-Form 106G -- Schedule G: Executory Contracts and Unexpired Leases
+Form 106G - Schedule G: Executory Contracts and Unexpired Leases
 
-Form 106H -- Schedule H: Your Codebtors
+Form 106H - Schedule H: Your Codebtors
 
-Form 106I -- Schedule I: Your Income
+Form 106I - Schedule I: Your Income
 
-Form 106J -- Schedule J: Your Expenses
+Form 106J - Schedule J: Your Expenses
 
-Form 106 Dec -- Declaration About an Individual Debtor's Schedules
+Form 106 Dec - Declaration About an Individual Debtor's Schedules
 
-Form 107 -- Statement of Financial Affairs
+Form 107 - Statement of Financial Affairs
 
-Form 122A-1 -- Chapter 7 Means Test Calculation (and 122A-2 if required)
+Form 122A-1 - Chapter 7 Means Test Calculation (and 122A-2 if required)
 
 Credit counseling certificate
 
-All forms are available free at uscourts.gov. See our detailed forms and filing guide. Your local court may require additional local forms -- check your court's website.
+All forms are available free at uscourts.gov. See our detailed forms and filing guide. Your local court may require additional local forms - check your court's website.
 
 Step 5: File Your Petition
 
 You can file in person at the bankruptcy court clerk's office or electronically if your court allows pro se e-filing (not all do). The filing fee is $338 as of 2026. If you cannot afford the fee, you can request to pay in installments (Form 103A) or apply for a fee waiver (Form 103B) if your income is below 150% of the poverty line.
 
-Once your petition is filed, the automatic stay takes effect immediately under Section 362. Creditors must stop all collection activity -- calls, lawsuits, wage garnishments, and repossessions.
+Once your petition is filed, the automatic stay takes effect immediately under Section 362. Creditors must stop all collection activity - calls, lawsuits, wage garnishments, and repossessions.
 
 Step 6: Attend the 341 Meeting of Creditors
 
-Approximately 20 to 40 days after filing, you will attend the 341 meeting of creditors. As a pro se filer, you attend alone -- there is no attorney beside you. The trustee will ask you questions under oath about your petition, assets, income, and financial transactions.
+Approximately 20 to 40 days after filing, you will attend the 341 meeting of creditors. As a pro se filer, you attend alone - there is no attorney beside you. The trustee will ask you questions under oath about your petition, assets, income, and financial transactions.
 
-Preparation is critical for pro se filers. Review your petition thoroughly before the meeting. Bring your government-issued photo ID, proof of Social Security number, most recent tax return, and recent pay stubs. Answer honestly and directly. If you do not know the answer to a question, say so -- do not guess.
+Preparation is critical for pro se filers. Review your petition thoroughly before the meeting. Bring your government-issued photo ID, proof of Social Security number, most recent tax return, and recent pay stubs. Answer honestly and directly. If you do not know the answer to a question, say so - do not guess.
 
 Step 7: Complete the Debtor Education Course
 
@@ -620,7 +624,7 @@ After filing (but before discharge), you must complete a financial management co
 
 Step 8: Receive Your Discharge
 
-If no creditor files an objection and the trustee does not identify any issues, the court enters your discharge approximately 60 to 90 days after the 341 meeting. The discharge order permanently eliminates your personal liability on most unsecured debts -- credit cards, medical bills, personal loans, and similar obligations.
+If no creditor files an objection and the trustee does not identify any issues, the court enters your discharge approximately 60 to 90 days after the 341 meeting. The discharge order permanently eliminates your personal liability on most unsecured debts - credit cards, medical bills, personal loans, and similar obligations.
 
 Some debts are not dischargeable: most student loans, recent taxes, child support, alimony, debts from fraud, and certain other categories under Section 523.
 
@@ -632,7 +636,7 @@ The most common reason for dismissal. Every asset must be listed on Schedule A/B
 
 Wrong Exemptions
 
-Exemption law varies significantly by state. Some states require you to use state exemptions, others let you choose between state and federal. Claiming the wrong exemptions -- or failing to claim them at all -- can result in the trustee taking property you could have protected. Research your state's bankruptcy exemptions carefully.
+Exemption law varies significantly by state. Some states require you to use state exemptions, others let you choose between state and federal. Claiming the wrong exemptions - or failing to claim them at all - can result in the trustee taking property you could have protected. Research your state's bankruptcy exemptions carefully.
 
 Missing Deadlines
 
@@ -640,21 +644,21 @@ Courts issue deficiency notices when required documents are missing. These notic
 
 Forgetting the Debtor Education Course
 
-Many pro se filers complete the pre-filing credit counseling but forget the post-filing debtor education course. Without the Form 423 certificate, the court will close your case without a discharge -- and you get nothing for your effort.
+Many pro se filers complete the pre-filing credit counseling but forget the post-filing debtor education course. Without the Form 423 certificate, the court will close your case without a discharge - and you get nothing for your effort.
 
 Related Guides
 
-Pro se bankruptcy overview -- when it makes sense and when it does not
+Pro se bankruptcy overview - when it makes sense and when it does not
 
-Chapter 13 without a lawyer -- why it is dramatically harder
+Chapter 13 without a lawyer - why it is dramatically harder
 
 Complete list of bankruptcy forms and how to file
 
-Free bankruptcy help -- legal aid, clinics, and resources
+Free bankruptcy help - legal aid, clinics, and resources
 
 341 meeting preparation guide
 
-What bankruptcy costs -- fees, waivers, and hidden expenses
+What bankruptcy costs - fees, waivers, and hidden expenses
 
 Not legal advice. This site provides general information about filing Chapter 7 bankruptcy without an attorney. It is not a substitute for advice from a licensed attorney. Every case is different. If you are considering bankruptcy, consult with a qualified bankruptcy attorney in your jurisdiction.
 
@@ -667,6 +671,10 @@ Pro Se Bankruptcy Questions
 Bankruptcy Cost Breakdown
 
 How Much Does Bankruptcy Cost?
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
@@ -772,7 +780,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Pro Se Bankruptcy Filing Checklist -- Pro Se Debtors
+## Pro Se Bankruptcy Filing Checklist - Pro Se Debtors
 Source: https://prosedebtors.org/checklist.html
 
 Skip to main content
@@ -794,7 +802,7 @@ Local Rules
 
 Pro Se Filing Checklist
 
-Everything you need to file -- organized step by step
+Everything you need to file - organized step by step
 
 Network › Pro Se Debtors › Filing Checklist
 
@@ -824,31 +832,31 @@ Phase 2: Complete the Forms
 
 All official forms available free at uscourts.gov.
 
-Voluntary Petition (Form 101) -- basic information, chapter selection
+Voluntary Petition (Form 101) - basic information, chapter selection
 
-Schedule A/B -- all property (real and personal)
+Schedule A/B - all property (real and personal)
 
-Schedule C -- property claimed as exempt
+Schedule C - property claimed as exempt
 
-Schedule D -- secured creditors
+Schedule D - secured creditors
 
-Schedule E/F -- priority and unsecured creditors
+Schedule E/F - priority and unsecured creditors
 
-Schedule G -- executory contracts and unexpired leases
+Schedule G - executory contracts and unexpired leases
 
-Schedule H -- codebtors
+Schedule H - codebtors
 
-Schedule I -- current income
+Schedule I - current income
 
-Schedule J -- current expenses
+Schedule J - current expenses
 
 Statement of Financial Affairs (Form 107)
 
-Means Test -- Form 122A-1/122A-2 (Ch.7) or 122C-1/122C-2 (Ch.13)
+Means Test - Form 122A-1/122A-2 (Ch.7) or 122C-1/122C-2 (Ch.13)
 
-Chapter 13 Plan (Form 113) -- if filing Chapter 13
+Chapter 13 Plan (Form 113) - if filing Chapter 13
 
-Creditor Matrix -- formatted list of all creditors (check local format requirements)
+Creditor Matrix - formatted list of all creditors (check local format requirements)
 
 Phase 3: Filing Day
 
@@ -856,7 +864,7 @@ All forms signed and dated
 
 Correct number of copies (call clerk for your district's requirements)
 
-Filing fee: $338 (Ch.7) or $313 (Ch.13) -- or fee waiver/installment application
+Filing fee: $338 (Ch.7) or $313 (Ch.13) - or fee waiver/installment application
 
 Credit counseling certificate attached
 
@@ -891,13 +899,13 @@ Subscribe
 
 Related Resources
 
-howtofilebankruptcy.org -- Complete filing guide
+howtofilebankruptcy.org - Complete filing guide
 
-Forms Guide -- Walk through each required form
+Forms Guide - Walk through each required form
 
-Common Mistakes -- Avoid these filing errors
+Common Mistakes - Avoid these filing errors
 
-meanstest.org -- Means test explained
+meanstest.org - Means test explained
 
 Related Guides
 
@@ -908,6 +916,10 @@ Pro Se Bankruptcy Questions
 Bankruptcy Cost Breakdown
 
 How Much Does Bankruptcy Cost?
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
@@ -1006,7 +1018,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Pro Se Bankruptcy Mistakes That Lead to Dismissal -- Pro Se Debtors
+## Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors
 Source: https://prosedebtors.org/common-mistakes.html
 
 Skip to main content
@@ -1028,7 +1040,7 @@ Local Rules
 
 Common Mistakes to Avoid
 
-The top 10 errors that lead to case dismissal -- and how to prevent them
+The top 10 errors that lead to case dismissal - and how to prevent them
 
 Network › Pro Se Debtors › Common Mistakes
 
@@ -1042,7 +1054,7 @@ Your petition must include the credit counseling certificate. If you file withou
 
 Mistake 3: Incomplete Schedules
 
-Every asset must be listed. Every debt must be listed. Every source of income must be disclosed. Omissions -- even accidental ones -- can result in denial of discharge, case dismissal, or even fraud charges. When in doubt, disclose.
+Every asset must be listed. Every debt must be listed. Every source of income must be disclosed. Omissions - even accidental ones - can result in denial of discharge, case dismissal, or even fraud charges. When in doubt, disclose.
 
 Mistake 4: Wrong Exemptions
 
@@ -1087,13 +1099,13 @@ Subscribe
 
 Related Resources
 
-Filing Checklist -- Complete document checklist
+Filing Checklist - Complete document checklist
 
-Forms Guide -- Walk through each form
+Forms Guide - Walk through each form
 
-Free Help -- Where to get free bankruptcy help
+Free Help - Where to get free bankruptcy help
 
-howtofilebankruptcy.org -- Complete filing guide
+howtofilebankruptcy.org - Complete filing guide
 
 Related Guides
 
@@ -1234,7 +1246,7 @@ The 341 meeting (named after Section 341 of the Bankruptcy Code) is the one proc
 
 Timing: 20-40 days after filing. The court sends you notice with the date, time, and location.
 
-Location: Usually not in a courtroom -- often a conference room at the federal building or courthouse.
+Location: Usually not in a courtroom - often a conference room at the federal building or courthouse.
 
 Who is there: The Chapter 7 or Chapter 13 trustee, you, and possibly some creditors (creditors rarely appear in consumer cases).
 
@@ -1280,7 +1292,7 @@ Stand when speaking to the judge
 
 Bring all relevant documents organized in a binder or folder
 
-Be on time -- courts run on schedule and your case can be decided in your absence
+Be on time - courts run on schedule and your case can be decided in your absence
 
 Related Guides
 
@@ -1295,13 +1307,13 @@ Subscribe
 
 Related Resources
 
-341meeting.org -- Complete 341 meeting guide
+341meeting.org - Complete 341 meeting guide
 
-Local Rules -- Why local rules matter for pro se filers
+Local Rules - Why local rules matter for pro se filers
 
-Common Mistakes -- Errors that lead to dismissal
+Common Mistakes - Errors that lead to dismissal
 
-howtofilebankruptcy.org -- Full filing guide
+howtofilebankruptcy.org - Full filing guide
 
 Related Guides
 
@@ -1312,6 +1324,10 @@ Pro Se Bankruptcy Questions
 Bankruptcy Cost Breakdown
 
 How Much Does Bankruptcy Cost?
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
@@ -1412,7 +1428,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Filing Document Checklist -- Every Form and Document You Need -- Pro Se Debtors
+## Bankruptcy Filing Document Checklist - Every Form and Document You Need - Pro Se Debtors
 Source: https://prosedebtors.org/document-checklist.html
 
 Skip to main content
@@ -1434,13 +1450,13 @@ Local Rules
 
 Bankruptcy Filing Document Checklist
 
-Every form, document, and supporting record you need to file Chapter 7 or Chapter 13 bankruptcy -- organized by category with deadlines and common mistakes to avoid.
+Every form, document, and supporting record you need to file Chapter 7 or Chapter 13 bankruptcy - organized by category with deadlines and common mistakes to avoid.
 
 Home › Document Checklist
 
 Table of Contents
 
-Official Bankruptcy Forms -- The Complete List
+Official Bankruptcy Forms - The Complete List
 
 Means Test Forms (122A and 122C)
 
@@ -1448,7 +1464,7 @@ Documents to Gather Before You Start
 
 How to Organize Everything
 
-Timeline -- What Is Due and When
+Timeline - What Is Due and When
 
 Common Mistakes That Cause Dismissal
 
@@ -1458,9 +1474,9 @@ Filing Fees and Fee Waivers
 
 Frequently Asked Questions
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
 
-1. Official Bankruptcy Forms -- The Complete List
+1. Official Bankruptcy Forms - The Complete List
 
 The federal courts publish a set of Official Bankruptcy Forms that every filer must use. These forms are standardized nationwide, though individual courts may require additional local forms. Below is the full list of forms that an individual debtor will typically need to file, organized in the order the court expects to receive them.
 
@@ -1494,7 +1510,7 @@ Provides your full SSN to the court. Filed separately from the petition and not 
 
 The Schedules
 
-The schedules are the core of your bankruptcy filing. They provide a complete picture of your financial life -- everything you own, everything you owe, your income, and your expenses. Accuracy here is critical. Mistakes on schedules are the most common reason cases get dismissed or debtors lose property they could have kept.
+The schedules are the core of your bankruptcy filing. They provide a complete picture of your financial life - everything you own, everything you owe, your income, and your expenses. Accuracy here is critical. Mistakes on schedules are the most common reason cases get dismissed or debtors lose property they could have kept.
 
 Form
 Title
@@ -1510,7 +1526,7 @@ Every piece of property you own or have an interest in: real estate, vehicles, b
 
 B 106C
 Schedule C: Property Claimed as Exempt
-Lists the property from Schedule A/B that you are claiming as exempt (protected from creditors). You must choose either federal exemptions (11 U.S.C. Section 522(d)) or your state's exemptions -- not both (unless your state opts out of the federal scheme).
+Lists the property from Schedule A/B that you are claiming as exempt (protected from creditors). You must choose either federal exemptions (11 U.S.C. Section 522(d)) or your state's exemptions - not both (unless your state opts out of the federal scheme).
 
 B 106D
 Schedule D: Creditors Who Hold Claims Secured by Property
@@ -1526,7 +1542,7 @@ Any contracts or leases still in effect: apartment leases, vehicle leases, equip
 
 B 106H
 Schedule H: Your Codebtors
-Anyone who is jointly liable on any of your debts -- cosigners, guarantors, joint account holders, co-borrowers.
+Anyone who is jointly liable on any of your debts - cosigners, guarantors, joint account holders, co-borrowers.
 
 B 106I
 Schedule I: Your Income
@@ -1552,7 +1568,7 @@ Purpose
 
 B 107
 Statement of Financial Affairs for Individuals Filing for Bankruptcy
-32 questions covering your financial history: income for the past 2 years, payments to creditors in the past 90 days (or 1 year for insiders), lawsuits, garnishments, repossessions, foreclosures, transfers of property, closed accounts, safe deposit boxes, gifts, losses, and more. This form is a minefield for pro se filers -- answer every question completely.
+32 questions covering your financial history: income for the past 2 years, payments to creditors in the past 90 days (or 1 year for insiders), lawsuits, garnishments, repossessions, foreclosures, transfers of property, closed accounts, safe deposit boxes, gifts, losses, and more. This form is a minefield for pro se filers - answer every question completely.
 
 Chapter 13 Plan
 
@@ -1588,11 +1604,11 @@ Chapter 7 only. Available if income is below 150% of the federal poverty guideli
 
 B 104
 Creditor Mailing Matrix
-Alphabetical list of all creditor names and addresses, used by the court to send notices. Format varies by district -- check your local court's requirements.
+Alphabetical list of all creditor names and addresses, used by the court to send notices. Format varies by district - check your local court's requirements.
 
 B 318
 Discharge of Debtor in a Chapter 7 Case
-Issued by the court -- you do not file this. Listed here so you know what the end result looks like.
+Issued by the court - you do not file this. Listed here so you know what the end result looks like.
 
 2. Means Test Forms (122A and 122C)
 
@@ -1606,7 +1622,7 @@ Who Files It
 
 B 122A-1
 Chapter 7 Statement of Your Current Monthly Income
-All Chapter 7 filers. Calculates your "current monthly income" -- the average of your gross income for the 6 full calendar months before filing.
+All Chapter 7 filers. Calculates your "current monthly income" - the average of your gross income for the 6 full calendar months before filing.
 
 B 122A-1Supp
 Statement of Exemption from Presumption of Abuse Under Section 707(b)(2)
@@ -1614,7 +1630,7 @@ Filed instead of 122A-2 if you are a disabled veteran, a reservist/National Guar
 
 B 122A-2
 Chapter 7 Means Test Calculation
-Required if your income on 122A-1 exceeds the state median for your household size. This is the full means test -- it applies IRS expense standards and your actual secured debt payments to determine whether you have enough disposable income to fund a Chapter 13 plan.
+Required if your income on 122A-1 exceeds the state median for your household size. This is the full means test - it applies IRS expense standards and your actual secured debt payments to determine whether you have enough disposable income to fund a Chapter 13 plan.
 
 Chapter 13 Means Test
 
@@ -1632,7 +1648,7 @@ Required only if income exceeds the state median. Calculates disposable income u
 
 Where to find median income figures: The U.S. Trustee Program publishes updated median income data at justice.gov/ust/means-testing. These figures are updated periodically based on Census Bureau data. Use the figures in effect on the date you file, not the date you start preparing your forms.
 
-Common trap: "Current monthly income" in bankruptcy does not mean what you earned last month. It is the average of your gross income for the 6 full calendar months before the month you file. If you file on March 15, your 6-month look-back period is September 1 through February 28. This catches people who had a high-income period followed by job loss -- your "current" income may be much higher than what you actually earn now.
+Common trap: "Current monthly income" in bankruptcy does not mean what you earned last month. It is the average of your gross income for the 6 full calendar months before the month you file. If you file on March 15, your 6-month look-back period is September 1 through February 28. This catches people who had a high-income period followed by job loss - your "current" income may be much higher than what you actually earn now.
 
 3. Documents to Gather Before You Start
 
@@ -1640,71 +1656,71 @@ Before you touch a single form, gather all supporting documents first. This is t
 
 Income Documentation
 
-Pay stubs for the last 6 months -- Required by 11 U.S.C. Section 521(a)(1)(B)(iv). You must provide these to the trustee at least 7 days before the 341 meeting. If you are paid weekly, that is roughly 26 pay stubs. Bi-weekly means 13. If you have lost any, contact your employer's payroll department for copies.
+Pay stubs for the last 6 months - Required by 11 U.S.C. Section 521(a)(1)(B)(iv). You must provide these to the trustee at least 7 days before the 341 meeting. If you are paid weekly, that is roughly 26 pay stubs. Bi-weekly means 13. If you have lost any, contact your employer's payroll department for copies.
 
-Federal tax returns for the last 2 years -- Both the filed returns and all W-2s, 1099s, and other supporting schedules. Under Section 521(e)(2), you must provide a copy of your most recent tax return (or a transcript) to the trustee at least 7 days before the 341 meeting. Many trustees request 2 years. If you have not filed your tax returns, you must file them before filing bankruptcy -- the court will dismiss your case if you have unfiled returns for the past 4 years.
+Federal tax returns for the last 2 years - Both the filed returns and all W-2s, 1099s, and other supporting schedules. Under Section 521(e)(2), you must provide a copy of your most recent tax return (or a transcript) to the trustee at least 7 days before the 341 meeting. Many trustees request 2 years. If you have not filed your tax returns, you must file them before filing bankruptcy - the court will dismiss your case if you have unfiled returns for the past 4 years.
 
-State tax returns for the last 2 years -- Some trustees request these as well, and several districts require them as a local rule.
+State tax returns for the last 2 years - Some trustees request these as well, and several districts require them as a local rule.
 
-Self-employment records -- If you are self-employed or run a business: profit and loss statements, business bank statements, QuickBooks reports, 1099-NEC/1099-MISC forms, and any other records showing business income and expenses for the last 6 months (for the means test) and the last 2 years (for the Statement of Financial Affairs).
+Self-employment records - If you are self-employed or run a business: profit and loss statements, business bank statements, QuickBooks reports, 1099-NEC/1099-MISC forms, and any other records showing business income and expenses for the last 6 months (for the means test) and the last 2 years (for the Statement of Financial Affairs).
 
-Other income documentation -- Social Security award letters, pension statements, unemployment benefit letters, disability payments, alimony/child support orders, rental income records, investment income statements.
+Other income documentation - Social Security award letters, pension statements, unemployment benefit letters, disability payments, alimony/child support orders, rental income records, investment income statements.
 
 Bank and Financial Statements
 
-Bank statements for the last 60 days (minimum) -- Every checking, savings, money market, and credit union account. Many trustees request 6 months. Include all pages, even blank ones. If you have closed any accounts in the past year, get the final statements.
+Bank statements for the last 60 days (minimum) - Every checking, savings, money market, and credit union account. Many trustees request 6 months. Include all pages, even blank ones. If you have closed any accounts in the past year, get the final statements.
 
-Investment account statements -- Brokerage accounts, mutual funds, stocks, bonds, cryptocurrency exchange statements. Current balances and recent activity.
+Investment account statements - Brokerage accounts, mutual funds, stocks, bonds, cryptocurrency exchange statements. Current balances and recent activity.
 
-Retirement account statements -- 401(k), 403(b), IRA, Roth IRA, pension, and any other retirement accounts. Most recent quarterly statement showing current balance. Retirement accounts are generally exempt in bankruptcy, but you still must disclose them on Schedule A/B.
+Retirement account statements - 401(k), 403(b), IRA, Roth IRA, pension, and any other retirement accounts. Most recent quarterly statement showing current balance. Retirement accounts are generally exempt in bankruptcy, but you still must disclose them on Schedule A/B.
 
-Life insurance policies -- The policy itself and a statement showing any cash surrender value. Term life policies have no cash value. Whole life and universal life policies do -- and that cash value is an asset of the estate.
+Life insurance policies - The policy itself and a statement showing any cash surrender value. Term life policies have no cash value. Whole life and universal life policies do - and that cash value is an asset of the estate.
 
 Property Documentation
 
-Vehicle titles -- For every vehicle you own. If there is a lien, you will have a lien notation on the title or the lienholder will hold the title. You need the VIN, year, make, model, and mileage for Schedule A/B.
+Vehicle titles - For every vehicle you own. If there is a lien, you will have a lien notation on the title or the lienholder will hold the title. You need the VIN, year, make, model, and mileage for Schedule A/B.
 
-Vehicle loan statements -- Current payoff amount, monthly payment, interest rate, and account number for each financed vehicle.
+Vehicle loan statements - Current payoff amount, monthly payment, interest rate, and account number for each financed vehicle.
 
-Mortgage statements -- Most recent statement for each mortgage. Include the current balance, monthly payment (PITI: principal, interest, taxes, insurance), interest rate, and any arrearage amount. If you are behind on your mortgage, get a detailed arrearage breakdown.
+Mortgage statements - Most recent statement for each mortgage. Include the current balance, monthly payment (PITI: principal, interest, taxes, insurance), interest rate, and any arrearage amount. If you are behind on your mortgage, get a detailed arrearage breakdown.
 
-Property tax statements -- Most recent real property tax bill showing assessed value and amount owed.
+Property tax statements - Most recent real property tax bill showing assessed value and amount owed.
 
-Home insurance declarations page -- Shows coverage amounts and annual premium.
+Home insurance declarations page - Shows coverage amounts and annual premium.
 
-Real estate deeds -- For any real property you own or have an interest in, including land, rental property, or timeshares.
+Real estate deeds - For any real property you own or have an interest in, including land, rental property, or timeshares.
 
-Vehicle insurance declarations page -- Shows coverage and premium for each insured vehicle.
+Vehicle insurance declarations page - Shows coverage and premium for each insured vehicle.
 
 Debt Documentation
 
-Most recent statement for every debt -- Credit cards, medical bills, personal loans, student loans, payday loans, 401(k) loans, tax debts, court judgments. You need the creditor name, account number, and current balance for Schedules D, E/F.
+Most recent statement for every debt - Credit cards, medical bills, personal loans, student loans, payday loans, 401(k) loans, tax debts, court judgments. You need the creditor name, account number, and current balance for Schedules D, E/F.
 
-Collection letters and notices -- Especially if the original creditor has sold the debt to a collection agency. List both the original creditor and the current holder.
+Collection letters and notices - Especially if the original creditor has sold the debt to a collection agency. List both the original creditor and the current holder.
 
-Judgment and garnishment documents -- Court orders, writs of garnishment, wage withholding orders. These go on the Statement of Financial Affairs and may affect your schedule entries.
+Judgment and garnishment documents - Court orders, writs of garnishment, wage withholding orders. These go on the Statement of Financial Affairs and may affect your schedule entries.
 
-Tax liens and IRS/state notices -- Any Notice of Federal Tax Lien, CP notices, or state tax assessment notices. Tax debts have special priority status in bankruptcy.
+Tax liens and IRS/state notices - Any Notice of Federal Tax Lien, CP notices, or state tax assessment notices. Tax debts have special priority status in bankruptcy.
 
-Student loan documentation -- Servicer statements, loan details, any income-driven repayment plan documentation.
+Student loan documentation - Servicer statements, loan details, any income-driven repayment plan documentation.
 
-Domestic support obligations -- Child support orders, alimony decrees, and any arrearage statements. These debts are not dischargeable and receive first-priority status.
+Domestic support obligations - Child support orders, alimony decrees, and any arrearage statements. These debts are not dischargeable and receive first-priority status.
 
 Legal and Contract Documents
 
-Lease agreements -- Apartment, vehicle, equipment, or any other current lease. These go on Schedule G.
+Lease agreements - Apartment, vehicle, equipment, or any other current lease. These go on Schedule G.
 
-Pending lawsuits -- Complaints, summonses, court filings for any lawsuit where you are either a plaintiff or defendant. If you are a plaintiff, the potential recovery is an asset. If you are a defendant, the claim is a liability.
+Pending lawsuits - Complaints, summonses, court filings for any lawsuit where you are either a plaintiff or defendant. If you are a plaintiff, the potential recovery is an asset. If you are a defendant, the claim is a liability.
 
-Divorce decree -- If applicable. Domestic support obligations, property settlement agreements, and obligations from a divorce have special treatment in bankruptcy.
+Divorce decree - If applicable. Domestic support obligations, property settlement agreements, and obligations from a divorce have special treatment in bankruptcy.
 
-Business formation documents -- Articles of incorporation, LLC operating agreements, partnership agreements. If you own any interest in a business, it must be disclosed.
+Business formation documents - Articles of incorporation, LLC operating agreements, partnership agreements. If you own any interest in a business, it must be disclosed.
 
 Pre-Filing Requirements
 
-Credit counseling certificate -- You must complete a credit counseling course from an approved agency within 180 days before filing. The agency will issue a certificate that you file with the court. A list of approved agencies is at justice.gov/ust. Cost: $10 to $50 (fee waivers sometimes available).
+Credit counseling certificate - You must complete a credit counseling course from an approved agency within 180 days before filing. The agency will issue a certificate that you file with the court. A list of approved agencies is at justice.gov/ust. Cost: $10 to $50 (fee waivers sometimes available).
 
-Credit reports -- Pull all three (Equifax, Experian, TransUnion) from annualcreditreport.com (free). Use these to build your creditor list. The reports often contain debts you have forgotten about, and missing a creditor can mean that debt survives your discharge.
+Credit reports - Pull all three (Equifax, Experian, TransUnion) from annualcreditreport.com (free). Use these to build your creditor list. The reports often contain debts you have forgotten about, and missing a creditor can mean that debt survives your discharge.
 
 Post-filing requirement: After filing but before discharge, you must complete a debtor education course (also called financial management course) from a separate approved agency. This is different from the pre-filing credit counseling course. The certificate is filed with the court using Form B 423. If you do not file it, you will not receive your discharge.
 
@@ -1716,25 +1732,25 @@ Recommended Folder Structure
 
 Create a physical binder or folder system with the following tabs. If you are working digitally, mirror this structure on your computer with named folders.
 
-Petition and Core Forms -- B 101, B 121, B 101A (if applicable), credit counseling certificate, B 103A/B (if applicable)
+Petition and Core Forms - B 101, B 121, B 101A (if applicable), credit counseling certificate, B 103A/B (if applicable)
 
-Schedules A/B and C -- Property list and exemptions, with supporting documentation behind each (titles, statements, appraisals)
+Schedules A/B and C - Property list and exemptions, with supporting documentation behind each (titles, statements, appraisals)
 
-Schedules D, E/F -- Secured and unsecured creditor lists, with the most recent statement for each debt
+Schedules D, E/F - Secured and unsecured creditor lists, with the most recent statement for each debt
 
-Schedules G, H, I, J -- Contracts, codebtors, income, expenses
+Schedules G, H, I, J - Contracts, codebtors, income, expenses
 
-Statement of Financial Affairs -- Form B 107 with supporting documents for any question where you answered "Yes"
+Statement of Financial Affairs - Form B 107 with supporting documents for any question where you answered "Yes"
 
-Means Test -- 122A or 122C series, with the pay stubs and income records used to calculate the numbers
+Means Test - 122A or 122C series, with the pay stubs and income records used to calculate the numbers
 
-Tax Returns -- 2 years of federal and state returns, all W-2s and 1099s
+Tax Returns - 2 years of federal and state returns, all W-2s and 1099s
 
-Bank Statements -- 2 to 6 months for every account, organized by account
+Bank Statements - 2 to 6 months for every account, organized by account
 
-Insurance Policies -- Declarations pages for home, auto, health, life
+Insurance Policies - Declarations pages for home, auto, health, life
 
-Correspondence -- Court notices, trustee requests, any letters from creditors during the case
+Correspondence - Court notices, trustee requests, any letters from creditors during the case
 
 Tips for Pro Se Filers
 
@@ -1750,7 +1766,7 @@ Use the official form instructions. Each form comes with a separate instruction 
 
 Digital copies matter. Scan or photograph every important document and save it to a cloud service or external drive. Paper gets lost. Houses flood. If the trustee requests a document 6 months into your case that you gathered at the beginning, you need to be able to produce it.
 
-5. Timeline -- What Is Due and When
+5. Timeline - What Is Due and When
 
 Bankruptcy deadlines are strict, and missing them can result in automatic dismissal of your case without a hearing. The timeline below covers the major deadlines for individual debtors. Your local court may impose additional deadlines.
 
@@ -1778,14 +1794,14 @@ Consequence of Missing
 
 14 days
 All remaining schedules, Statement of Financial Affairs, means test form, and Chapter 13 plan (if applicable).
-Automatic dismissal under Section 521(i)(1). The court does not need to hold a hearing -- your case is simply dismissed.
+Automatic dismissal under Section 521(i)(1). The court does not need to hold a hearing - your case is simply dismissed.
 
 7 days before 341 meeting
 Provide the trustee with a copy of your most recent federal tax return (or transcript) and pay stubs for the 60 days before filing.
 Trustee may continue the 341 meeting or move to dismiss. Under Section 521(e)(2)(B), failure to provide the tax return can result in dismissal.
 
 30 days after filing (Ch. 7)
-Statement of Intention (B 108) -- declare what you will do with secured property.
+Statement of Intention (B 108) - declare what you will do with secured property.
 Automatic stay lifts as to the property, meaning the creditor can repossess or foreclose.
 
 21-50 days after filing
@@ -1798,13 +1814,13 @@ Automatic stay lifts as to the property.
 
 60 days after 341 meeting (Ch. 7)
 Deadline for creditors and the U.S. Trustee to object to discharge or file a motion to dismiss for abuse.
-This is a deadline for others, not for you -- but be aware of it. If no objections, discharge typically follows shortly after.
+This is a deadline for others, not for you - but be aware of it. If no objections, discharge typically follows shortly after.
 
 Before discharge
 Complete the debtor education course and file the certificate (B 423).
 No discharge until the certificate is filed. If not filed within 45 days after the deadline for objecting to discharge (Ch. 7), the case may be closed without discharge.
 
-Chapter 13 additional deadlines: Plan confirmation hearing (typically 20-45 days after the 341 meeting, varies by district). First plan payment due within 30 days of filing under Section 1326(a)(1) -- even before the plan is confirmed. Monthly payments continue for 36 to 60 months. Annual tax return must be filed and provided to the trustee. Any of these failures can result in dismissal or conversion.
+Chapter 13 additional deadlines: Plan confirmation hearing (typically 20-45 days after the 341 meeting, varies by district). First plan payment due within 30 days of filing under Section 1326(a)(1) - even before the plan is confirmed. Monthly payments continue for 36 to 60 months. Annual tax return must be filed and provided to the trustee. Any of these failures can result in dismissal or conversion.
 
 6. Common Mistakes That Cause Dismissal
 
@@ -1812,7 +1828,7 @@ Most bankruptcy dismissals are not caused by fraud or bad intent. They are cause
 
 Incomplete Schedules
 
-Leaving a schedule blank is not the same as answering "none." If you have no executory contracts, Schedule G must still be filed -- with "none" entered. Every schedule must be completed and filed, even if the answer is zero or none. The court cannot distinguish between "I have no assets in this category" and "I forgot to file this form" unless the form is present and marked accordingly.
+Leaving a schedule blank is not the same as answering "none." If you have no executory contracts, Schedule G must still be filed - with "none" entered. Every schedule must be completed and filed, even if the answer is zero or none. The court cannot distinguish between "I have no assets in this category" and "I forgot to file this form" unless the form is present and marked accordingly.
 
 Missing Creditors
 
@@ -1820,11 +1836,11 @@ If you forget to list a creditor, that debt may survive your discharge. In a Cha
 
 Inaccurate Property Values
 
-Schedule A/B requires you to list the "current value" of your property -- meaning what it would sell for on the open market in its current condition, not what you paid for it or what you owe on it. For vehicles, use NADA or Kelley Blue Book trade-in values. For real estate, use recent comparable sales or the county assessed value. The trustee will challenge values that appear too low.
+Schedule A/B requires you to list the "current value" of your property - meaning what it would sell for on the open market in its current condition, not what you paid for it or what you owe on it. For vehicles, use NADA or Kelley Blue Book trade-in values. For real estate, use recent comparable sales or the county assessed value. The trustee will challenge values that appear too low.
 
 Failing to Disclose Transfers
 
-Question 18 of the Statement of Financial Affairs asks about transfers of property made in the 2 years before filing. This includes selling a car, transferring a deed, paying a family member, or moving money between accounts. Failure to disclose transfers can result in denial of discharge entirely under 11 U.S.C. Section 727(a)(2) -- even if the transfer was completely innocent.
+Question 18 of the Statement of Financial Affairs asks about transfers of property made in the 2 years before filing. This includes selling a car, transferring a deed, paying a family member, or moving money between accounts. Failure to disclose transfers can result in denial of discharge entirely under 11 U.S.C. Section 727(a)(2) - even if the transfer was completely innocent.
 
 Not Filing Tax Returns
 
@@ -1842,7 +1858,7 @@ Inconsistent Numbers
 
 The trustee will compare your income on Schedule I to your pay stubs, your bank deposits, your tax returns, and your means test form. If the numbers do not match, expect tough questions at the 341 meeting. Similarly, your expenses on Schedule J should be consistent with your bank statements. If you list $200/month for food but your bank statements show $800 in grocery store charges, you have a credibility problem.
 
-The most dangerous mistake: Lying on your forms. Everything you file is signed under penalty of perjury. The trustee is a professional investigator. They will review your bank statements, tax returns, and property records. If they catch you hiding assets, transferring property, or misrepresenting income, you face denial of discharge under Section 727(a), criminal prosecution under 18 U.S.C. Section 152, or both. Full honesty is not optional -- it is the foundation of the entire system.
+The most dangerous mistake: Lying on your forms. Everything you file is signed under penalty of perjury. The trustee is a professional investigator. They will review your bank statements, tax returns, and property records. If they catch you hiding assets, transferring property, or misrepresenting income, you face denial of discharge under Section 727(a), criminal prosecution under 18 U.S.C. Section 152, or both. Full honesty is not optional - it is the foundation of the entire system.
 
 7. Where to Get the Forms
 
@@ -1850,21 +1866,21 @@ All Official Bankruptcy Forms are free. Do not pay for them. Here is where to fi
 
 National Forms (Required in Every District)
 
-uscourts.gov/forms/bankruptcy-forms -- The official source for all national bankruptcy forms. Forms are in fillable PDF format. Each form includes a separate instruction document. Always download the most recent version -- forms are updated periodically. Direct link: uscourts.gov/forms/bankruptcy-forms
+uscourts.gov/forms/bankruptcy-forms - The official source for all national bankruptcy forms. Forms are in fillable PDF format. Each form includes a separate instruction document. Always download the most recent version - forms are updated periodically. Direct link: uscourts.gov/forms/bankruptcy-forms
 
 Local Forms (Vary by District)
 
-Your local bankruptcy court's website -- Many courts require additional local forms: cover sheets, local creditor matrix formatting instructions, local plan forms, or local notice procedures. Find your court at uscourts.gov/federal-court-finder. Navigate to the court's "Forms" or "Filing Information" section.
+Your local bankruptcy court's website - Many courts require additional local forms: cover sheets, local creditor matrix formatting instructions, local plan forms, or local notice procedures. Find your court at uscourts.gov/federal-court-finder. Navigate to the court's "Forms" or "Filing Information" section.
 
-Local rules -- While not forms, your court's local rules govern formatting requirements, page limits, service procedures, and other procedural details that can trip up pro se filers. Local rules are published on each court's website.
+Local rules - While not forms, your court's local rules govern formatting requirements, page limits, service procedures, and other procedural details that can trip up pro se filers. Local rules are published on each court's website.
 
 Means Test Data
 
 Median income figures: justice.gov/ust/means-testing
 
-IRS expense standards: justice.gov/ust/means-testing (same page -- includes links to National Standards, Local Standards, and Other Necessary Expenses)
+IRS expense standards: justice.gov/ust/means-testing (same page - includes links to National Standards, Local Standards, and Other Necessary Expenses)
 
-Means test calculator: meanstest.org -- free, no login required
+Means test calculator: meanstest.org - free, no login required
 
 Credit Counseling and Debtor Education
 
@@ -1885,13 +1901,13 @@ Fee Waiver
 
 Chapter 7
 $338
-Yes -- up to 4 installments (B 103A)
-Yes -- if income below 150% of poverty guidelines (B 103B)
+Yes - up to 4 installments (B 103A)
+Yes - if income below 150% of poverty guidelines (B 103B)
 
 Chapter 13
 $313
-Yes -- up to 4 installments (B 103A)
-No -- Chapter 13 filing fees cannot be waived, but can be paid through the plan
+Yes - up to 4 installments (B 103A)
+No - Chapter 13 filing fees cannot be waived, but can be paid through the plan
 
 Paying in Installments
 
@@ -1899,7 +1915,7 @@ If you cannot pay the full filing fee at the time of filing, use Form B 103A to 
 
 Chapter 7 Fee Waiver
 
-If your household income is below 150% of the federal poverty guidelines, you may request a complete waiver of the Chapter 7 filing fee using Form B 103B. As of 2024, the 150% poverty threshold for a single-person household is approximately $22,590 per year (this figure updates annually). The court is not required to grant the waiver -- it considers your income, expenses, and ability to pay.
+If your household income is below 150% of the federal poverty guidelines, you may request a complete waiver of the Chapter 7 filing fee using Form B 103B. As of 2024, the 150% poverty threshold for a single-person household is approximately $22,590 per year (this figure updates annually). The court is not required to grant the waiver - it considers your income, expenses, and ability to pay.
 
 Other costs to plan for: Beyond the filing fee, you should budget for credit counseling ($10-$50), debtor education ($10-$50), copies and postage for serving documents, and transportation to the 341 meeting (which is held at a federal building, not at the courthouse in most districts). Total out-of-pocket for a Chapter 7 pro se filing, not counting the fee itself: roughly $25 to $125.
 
@@ -1909,7 +1925,7 @@ In Chapter 13, the filing fee cannot be waived, but it can be paid through the p
 
 More Free Bankruptcy Tools
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information for everyone.
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information for everyone.
 
 Free Discharge Screener
 Means Test Guide
@@ -1926,7 +1942,7 @@ The filing fee for Chapter 7 bankruptcy is $338 and for Chapter 13 it is $313. C
 
 Where can I download official bankruptcy forms?
 
-All Official Bankruptcy Forms are available for free download at uscourts.gov/forms/bankruptcy-forms. The forms are in fillable PDF format. Do not pay any website for bankruptcy forms -- they are always free from the federal courts. Your local bankruptcy court may also have court-specific local forms that supplement the national forms.
+All Official Bankruptcy Forms are available for free download at uscourts.gov/forms/bankruptcy-forms. The forms are in fillable PDF format. Do not pay any website for bankruptcy forms - they are always free from the federal courts. Your local bankruptcy court may also have court-specific local forms that supplement the national forms.
 
 What happens if I file bankruptcy with incomplete documents?
 
@@ -1942,21 +1958,21 @@ Yes. Every individual has the legal right to file bankruptcy pro se (without an 
 
 Related Resources
 
-meanstest.org -- How the means test works and whether you qualify for Chapter 7
+meanstest.org - How the means test works and whether you qualify for Chapter 7
 
-341meeting.org -- What to expect at the 341 meeting of creditors
+341meeting.org - What to expect at the 341 meeting of creditors
 
-automaticstay.org -- The automatic stay: what it stops, how long it lasts, creditor violations
+automaticstay.org - The automatic stay: what it stops, how long it lasts, creditor violations
 
-1328f.com -- Free Section 109(g) and Section 1328(f) discharge eligibility screener
+1328f.com - Free Section 109(g) and Section 1328(f) discharge eligibility screener
 
-523a.org -- Non-dischargeable debts under Section 523(a)
+523a.org - Non-dischargeable debts under Section 523(a)
 
-727a8.com -- Grounds for denial of discharge under Section 727(a)(8)
+727a8.com - Grounds for denial of discharge under Section 727(a)(8)
 
-relieffromstay.org -- Motions for relief from the automatic stay
+relieffromstay.org - Motions for relief from the automatic stay
 
-dischargeinjunction.com -- The discharge injunction and creditor violations
+dischargeinjunction.com - The discharge injunction and creditor violations
 
 Related Guides
 
@@ -1967,6 +1983,10 @@ Pro Se Bankruptcy Questions
 Bankruptcy Cost Breakdown
 
 How Much Does Bankruptcy Cost?
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
@@ -2074,7 +2094,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Forms Guide for Pro Se Chapter 7 Filers -- Pro Se Debtors
+## Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors
 Source: https://prosedebtors.org/forms-guide.html
 
 Skip to main content
@@ -2104,7 +2124,7 @@ Where to Get the Forms
 
 All official bankruptcy forms are available free at uscourts.gov/forms/bankruptcy-forms. They are fillable PDF forms that you can complete on your computer and print.
 
-Form 101 -- Voluntary Petition
+Form 101 - Voluntary Petition
 
 This is your main petition form. It includes your name, address, Social Security number, which chapter you are filing under, and whether you have filed bankruptcy before. Key things to know:
 
@@ -2114,27 +2134,27 @@ If filing jointly with a spouse, both names go on the petition
 
 You must indicate whether you have completed credit counseling
 
-Schedules A/B -- Your Property
+Schedules A/B - Your Property
 
-This is where you list EVERYTHING you own or have an interest in. Real estate, vehicles, bank accounts, furniture, clothing, retirement accounts, tax refunds owed to you, lawsuits you are a party to -- everything. The number one rule: when in doubt, list it.
+This is where you list EVERYTHING you own or have an interest in. Real estate, vehicles, bank accounts, furniture, clothing, retirement accounts, tax refunds owed to you, lawsuits you are a party to - everything. The number one rule: when in doubt, list it.
 
-Schedule C -- Exempt Property
+Schedule C - Exempt Property
 
 After listing everything in A/B, Schedule C is where you claim exemptions to protect your property. Which exemptions you can use depends on your state. Some states allow you to choose between state and federal exemptions; others require state exemptions only.
 
-Schedules D, E/F -- Your Creditors
+Schedules D, E/F - Your Creditors
 
 Schedule D lists secured creditors (mortgages, car loans, liens). Schedule E/F lists priority creditors (taxes, child support) and general unsecured creditors (credit cards, medical bills). Include the creditor name, address, account number, and amount owed.
 
-Schedules I and J -- Income and Expenses
+Schedules I and J - Income and Expenses
 
-Schedule I lists your current monthly income from all sources. Schedule J lists your current monthly expenses. The difference between I and J is your disposable income -- an important number for the means test and for determining whether Chapter 7 is appropriate.
+Schedule I lists your current monthly income from all sources. Schedule J lists your current monthly expenses. The difference between I and J is your disposable income - an important number for the means test and for determining whether Chapter 7 is appropriate.
 
-Form 107 -- Statement of Financial Affairs
+Form 107 - Statement of Financial Affairs
 
 This is the most detailed and time-consuming form. It asks about income for the past 2 years, payments to creditors, lawsuits, property transfers, gifts, losses, and much more. Answer every question completely and honestly.
 
-Form 122A -- Means Test
+Form 122A - Means Test
 
 The means test determines whether you qualify for Chapter 7. Form 122A-1 is the initial calculation. If your income is below the state median, you pass. If above, Form 122A-2 calculates allowed expenses to determine disposable income.
 
@@ -2151,13 +2171,13 @@ Subscribe
 
 Related Resources
 
-Filing Checklist -- Complete document checklist
+Filing Checklist - Complete document checklist
 
-meanstest.org -- Means test guide
+meanstest.org - Means test guide
 
-Common Mistakes -- Errors that lead to dismissal
+Common Mistakes - Errors that lead to dismissal
 
-howtofilebankruptcy.org -- Full filing guide
+howtofilebankruptcy.org - Full filing guide
 
 Related Guides
 
@@ -2168,6 +2188,10 @@ Pro Se Bankruptcy Questions
 Bankruptcy Cost Breakdown
 
 How Much Does Bankruptcy Cost?
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Further Reading & Resources
 
@@ -2266,7 +2290,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources -- Pro Se Debtors
+## Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources - Pro Se Debtors
 Source: https://prosedebtors.org/free-help.html
 
 Skip to content
@@ -2285,6 +2309,8 @@ Common Mistakes
 Forms Guide
 Court Procedures
 Local Rules
+
+Home›Free Help
 
 Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources
 
@@ -2310,7 +2336,7 @@ Law School Bankruptcy Clinics
 
 Supervised Student Representation
 
-Dozens of law schools across the country operate bankruptcy clinics where law students handle real cases under the supervision of licensed attorneys (typically law professors). These clinics provide genuine legal representation -- not just form-filling help.
+Dozens of law schools across the country operate bankruptcy clinics where law students handle real cases under the supervision of licensed attorneys (typically law professors). These clinics provide genuine legal representation - not just form-filling help.
 
 What they provide: Full case representation from initial consultation through discharge. Students prepare the petition, attend the 341 meeting with you, handle trustee objections, and manage the case through completion. A supervising attorney reviews all work and appears at hearings.
 
@@ -2318,7 +2344,7 @@ Cost: Free. Clinics are funded by the law school as part of its educational miss
 
 How to find them: Search for "[your state] law school bankruptcy clinic" or check the American Bar Association's list of law school clinics. Major law schools with well-known bankruptcy clinics include programs at Harvard, Georgetown, Michigan, NYU, and many state universities.
 
-Limitations: Clinics have limited capacity (typically 10 to 30 cases per semester). They often have income limits. Availability follows the academic calendar -- intake may be limited during summer months.
+Limitations: Clinics have limited capacity (typically 10 to 30 cases per semester). They often have income limits. Availability follows the academic calendar - intake may be limited during summer months.
 
 Volunteer Lawyer Programs
 
@@ -2340,7 +2366,7 @@ Many federal bankruptcy courts operate self-help desks, pro se clinics, or debto
 
 What they provide: Help understanding court forms and procedures, assistance completing paperwork, explanation of local rules and deadlines, and general guidance about the bankruptcy process. Some courts offer "pro se workshops" that walk you through the filing packet step by step.
 
-What they cannot do: Court-based help desks generally cannot give you legal advice about your specific situation. They can explain what a form asks but cannot tell you how to answer it. The distinction matters -- they help with procedure, not strategy.
+What they cannot do: Court-based help desks generally cannot give you legal advice about your specific situation. They can explain what a form asks but cannot tell you how to answer it. The distinction matters - they help with procedure, not strategy.
 
 How to find them: Check your local bankruptcy court's website. Look for sections labeled "Self-Help," "Pro Se Resources," "Debtor Assistance," or "Self-Represented Litigants."
 
@@ -2356,7 +2382,7 @@ Bankruptcy Petition Preparers
 
 Bankruptcy petition preparers (BPPs) are non-attorneys who help you fill out bankruptcy forms for a fee. Under Section 110 of the Bankruptcy Code, they are permitted to type your paperwork and file it, but they cannot give legal advice. They cannot tell you which chapter to file, which exemptions to claim, or whether to reaffirm a debt.
 
-BPP fees are limited by law -- typically $150 to $200. If you just need help with the mechanics of form completion (and you already know what answers to provide), a BPP can be a low-cost option. But if you need strategic guidance, a BPP cannot help.
+BPP fees are limited by law - typically $150 to $200. If you just need help with the mechanics of form completion (and you already know what answers to provide), a BPP can be a low-cost option. But if you need strategic guidance, a BPP cannot help.
 
 Caution: Some petition preparers overstep their legal boundaries and give advice they are not qualified to give. This can lead to serious problems in your case. If a petition preparer tells you which chapter to file, which exemptions to choose, or how to value your assets, they are practicing law without a license.
 
@@ -2364,25 +2390,25 @@ Online Resources and Self-Education
 
 If you decide to proceed pro se, these free resources can help you prepare:
 
-Your local court's website -- most have instructions, local forms, and guides for self-represented filers
+Your local court's website - most have instructions, local forms, and guides for self-represented filers
 
-uscourts.gov -- all official bankruptcy forms with line-by-line instructions
+uscourts.gov - all official bankruptcy forms with line-by-line instructions
 
-bankruptcycost.com -- filing fees, fee waivers, and cost breakdowns
+bankruptcycost.com - filing fees, fee waivers, and cost breakdowns
 
-341meeting.com -- what to expect at the meeting of creditors
+341meeting.com - what to expect at the meeting of creditors
 
-1328f.com -- discharge eligibility screener for repeat filers
+1328f.com - discharge eligibility screener for repeat filers
 
-Our forms and filing guide -- which forms you need and how to file them
+Our forms and filing guide - which forms you need and how to file them
 
 Related Guides
 
-Pro se bankruptcy overview -- when self-representation makes sense
+Pro se bankruptcy overview - when self-representation makes sense
 
-Filing Chapter 7 without a lawyer -- step-by-step
+Filing Chapter 7 without a lawyer - step-by-step
 
-Chapter 13 without a lawyer -- why it is so hard
+Chapter 13 without a lawyer - why it is so hard
 
 Bankruptcy forms and how to file
 
@@ -2506,7 +2532,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Pro Se Debtors -- Self-Represented Bankruptcy Guide [2026]
+## Pro Se Debtors - Self-Represented Bankruptcy Guide [2026]
 Source: https://prosedebtors.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -2528,21 +2554,21 @@ Forms Guide
 Court Procedures
 Local Rules
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Pro Se Debtors
 
-Free resources for pro se debtors -- people filing Chapter 7 or Chapter 13 bankruptcy on their own, without attorney representation.
+Free resources for pro se debtors - people filing Chapter 7 or Chapter 13 bankruptcy on their own, without attorney representation.
 
 What Is Pro Se Bankruptcy?
 
-Every person has the right to file bankruptcy without an attorney. This is called filing "pro se" (Latin for "on one's own behalf"). While courts strongly recommend having a lawyer -- especially in Chapter 13 cases -- the reality is that many people cannot afford one and choose to represent themselves.
+Every person has the right to file bankruptcy without an attorney. This is called filing "pro se" (Latin for "on one's own behalf"). While courts strongly recommend having a lawyer - especially in Chapter 13 cases - the reality is that many people cannot afford one and choose to represent themselves.
 
 Pro se bankruptcy is not easy. The Bankruptcy Code is complex, the forms are numerous, and the procedural requirements are strict. Missing a deadline, filing an incomplete schedule, or failing to appear at the what to expect at the 341 meeting can result in case dismissal. But with the right information and tools, it is possible to navigate the process successfully.
 
-Our goal is to provide the clearest, most practical guidance available -- not to replace an attorney, but to make sure that self-represented debtors have access to the same information that attorneys use.
+Our goal is to provide the clearest, most practical guidance available - not to replace an attorney, but to make sure that self-represented debtors have access to the same information that attorneys use.
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
 
 Pro Se Filing Checklist
 
@@ -2558,7 +2584,7 @@ Pro Se Filing Checklist
 
 Step-by-step filing guides for Chapter 7 and Chapter 13, including which forms to file, how to complete schedules, what to expect at the 341 meeting of creditors, and how to respond to motions filed by creditors or the trustee. Each guide will include the actual forms, plain-language instructions, and common mistakes to avoid.
 
-Pro se-specific challenges -- including dealing with courts that are hostile to self-represented filers, understanding local rules, using CM/ECF for electronic filing, and knowing when the stakes are too high to go it alone. We will also cover bankruptcy petition preparers under Section 110 and the rules that govern them.
+Pro se-specific challenges - including dealing with courts that are hostile to self-represented filers, understanding local rules, using CM/ECF for electronic filing, and knowing when the stakes are too high to go it alone. We will also cover bankruptcy petition preparers under Section 110 and the rules that govern them.
 
 While we build this page, check out our free screening tool:
 
@@ -2589,11 +2615,11 @@ Subscribe
 
 Related Resources
 
-The 341 Meeting -- What to expect at your meeting of creditors
+The 341 Meeting - What to expect at your meeting of creditors
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Bankruptcy Mill Detection -- How to identify high-volume firms with poor outcomes
+Bankruptcy Mill Detection - How to identify high-volume firms with poor outcomes
 
 Further Reading & Resources
 
@@ -2648,7 +2674,7 @@ bankruptcycost.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -2819,7 +2845,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Local Bankruptcy Rules -- Why They Matter for Pro Se Filers -- Pro Se Debtors
+## Local Bankruptcy Rules - Why They Matter for Pro Se Filers - Pro Se Debtors
 Source: https://prosedebtors.org/local-rules.html
 
 Skip to main content
@@ -2839,9 +2865,9 @@ Forms Guide
 Court Procedures
 Local Rules
 
-Local Rules -- Why They Matter
+Local Rules - Why They Matter
 
-Every court is different -- knowing your local rules prevents costly mistakes
+Every court is different - knowing your local rules prevents costly mistakes
 
 Network › Pro Se Debtors › Local Rules
 
@@ -2849,7 +2875,7 @@ What Are Local Rules?
 
 Every federal bankruptcy court operates under two sets of rules: the national Federal Rules of Bankruptcy Procedure (FRBP) and local rules specific to that court. Local rules can address formatting, filing procedures, hearing schedules, plan requirements, and much more.
 
-For pro se filers, local rules are especially important because they contain practical requirements that are not in the national rules -- things like how the creditor mailing list must be formatted, whether you can file on paper, and what documentation the trustee expects.
+For pro se filers, local rules are especially important because they contain practical requirements that are not in the national rules - things like how the creditor mailing list must be formatted, whether you can file on paper, and what documentation the trustee expects.
 
 How to Find Your Local Rules
 
@@ -2859,21 +2885,21 @@ Look for "Local Rules," "Court Rules," or "Standing Orders" in the navigation.
 
 Download and read the entire set of local rules. They are typically 30-100 pages.
 
-Also check for "Administrative Orders" and "Standing Orders" from your assigned judge -- these may impose additional requirements.
+Also check for "Administrative Orders" and "Standing Orders" from your assigned judge - these may impose additional requirements.
 
 Common Local Rule Variations
 
-Creditor matrix format -- Some courts require specific column widths, font sizes, and spacing for the mailing list
+Creditor matrix format - Some courts require specific column widths, font sizes, and spacing for the mailing list
 
-Filing method -- Some courts allow pro se electronic filing; others require paper only
+Filing method - Some courts allow pro se electronic filing; others require paper only
 
-Chapter 13 plan form -- Some districts have their own local plan form that differs from the national Form 113
+Chapter 13 plan form - Some districts have their own local plan form that differs from the national Form 113
 
-Trustee document requests -- Trustees in your district may require specific documents not listed in the national rules
+Trustee document requests - Trustees in your district may require specific documents not listed in the national rules
 
-Fee payment -- Accepted payment methods vary (cash, check, money order, credit card)
+Fee payment - Accepted payment methods vary (cash, check, money order, credit card)
 
-341 meeting location -- Some districts hold meetings at the courthouse; others at separate locations
+341 meeting location - Some districts hold meetings at the courthouse; others at separate locations
 
 The Clerk's Office Is Your Friend
 
@@ -2904,13 +2930,13 @@ Subscribe
 
 Related Resources
 
-Find Your Court -- Locate your bankruptcy court
+Find Your Court - Locate your bankruptcy court
 
-Filing Checklist -- Complete pro se filing checklist
+Filing Checklist - Complete pro se filing checklist
 
-Common Mistakes -- Avoid these common errors
+Common Mistakes - Avoid these common errors
 
-meanstest.org -- Means test guide
+meanstest.org - Means test guide
 
 Related Guides
 
@@ -3021,7 +3047,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Pro Se Debtor Rights in Bankruptcy Court -- Pro Se Debtors
+## Pro Se Debtor Rights in Bankruptcy Court - Pro Se Debtors
 Source: https://prosedebtors.org/pro-se-debtor-rights.html
 
 prosedebtors.org
@@ -3058,13 +3084,13 @@ Section 525: You cannot be discriminated against by government agencies or priva
 
 Practical Tips for Pro Se Debtors
 
-Read your district's local rules before filing -- they contain formatting and procedural requirements
+Read your district's local rules before filing - they contain formatting and procedural requirements
 
 Attend public 341 meetings before your own to see how they work
 
 Keep copies of everything you file
 
-Respond to every court notice promptly -- deadlines in bankruptcy are strict
+Respond to every court notice promptly - deadlines in bankruptcy are strict
 
 If you receive a motion you do not understand, the clerk's office can explain procedural (not legal) aspects
 
@@ -3106,3 +3132,75 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## Privacy Policy - prosedebtors.org
+Source: https://prosedebtors.org/privacy.html
+
+prosedebtors.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
