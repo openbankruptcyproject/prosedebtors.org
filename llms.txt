@@ -1,5 +1,5 @@
 # Pro Se Debtors - Self-Represented Bankruptcy Guide [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Resources for pro se debtors filing bankruptcy without an attorney. Court rules, forms, and common pitfalls. 2026 guide.
 
@@ -7,19 +7,20 @@
 prosedebtors.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- My Bankruptcy Attorney Is Not Returning My Calls - What Do I Do? - Pro Se Debtors: https://prosedebtors.org/attorney-not-responding.html
-- Chapter 13 Without a Lawyer: Why It's So Hard - Pro Se Debtors: https://prosedebtors.org/chapter-13-pro-se.html
+- Bankruptcy Attorney Not Responding [2026]: KRPC 1.4 Communication Duty and Disciplinary Options: https://prosedebtors.org/attorney-not-responding.html
+- Chapter 13 Pro Se [2026]: Why 11 USC 1322 Plan Drafting Without Counsel Has 90%+ Dismissal Rate: https://prosedebtors.org/chapter-13-pro-se.html
 - Filing Chapter 7 Without a Lawyer - Pro Se Debtors: https://prosedebtors.org/chapter-7-pro-se.html
 - Pro Se Bankruptcy Filing Checklist - Pro Se Debtors: https://prosedebtors.org/checklist.html
-- Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors: https://prosedebtors.org/common-mistakes.html
-- Bankruptcy Court Procedures for Pro Se Debtors: https://prosedebtors.org/court-procedures.html
-- Bankruptcy Filing Document Checklist - Every Form and Document You Need - Pro Se Debtors: https://prosedebtors.org/document-checklist.html
-- Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors: https://prosedebtors.org/forms-guide.html
+- Pro Se Bankruptcy Mistakes [2026]: Top 10 Dismissal Drivers Including Schedules, 521(a) Documents, and 341 Meetings: https://prosedebtors.org/common-mistakes.html
+- Bankruptcy Court Procedures for Pro Se Filers [2026]: Local Rules, ECF Filing, and 341 Meeting Conduct: https://prosedebtors.org/court-procedures.html
+- Bankruptcy Pro Se Document Checklist [2026]: Every 11 USC 521(a) Form and Required Schedule: https://prosedebtors.org/document-checklist.html
+- Pro Se Chapter 7 Forms Guide [2026]: Official Form 101, 122A, Schedules, and SOFA Walkthrough: https://prosedebtors.org/forms-guide.html
 - Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources - Pro Se Debtors: https://prosedebtors.org/free-help.html
 - Pro Se Debtors - Self-Represented Bankruptcy Guide: https://prosedebtors.org/
-- Local Bankruptcy Rules - Why They Matter for Pro Se Filers - Pro Se Debtors: https://prosedebtors.org/local-rules.html
-- Pro Se Debtor Rights in Bankruptcy Court - Pro Se Debtors: https://prosedebtors.org/pro-se-debtor-rights.html
+- Local Bankruptcy Rules for Pro Se Filers [2026]: Why District Rules Differ From Fed. R. Bankr. P.: https://prosedebtors.org/local-rules.html
+- Pro Se Debtor Rights in Bankruptcy Court [2026]: ECF Filing Access, Hearing Appearance, and 28 USC 1654: https://prosedebtors.org/pro-se-debtor-rights.html
 - Privacy Policy: https://prosedebtors.org/privacy.html
+- About prosedebtors.org: https://prosedebtors.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

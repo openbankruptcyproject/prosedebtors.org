@@ -1,6 +1,6 @@
 # prosedebtors.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on prosedebtors.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## My Bankruptcy Attorney Is Not Returning My Calls - What Do I Do? - Pro Se Debtors
+## Bankruptcy Attorney Not Responding [2026]: KRPC 1.4 Communication Duty and Disciplinary Options
 Source: https://prosedebtors.org/attorney-not-responding.html
 
 prosedebtors.org
@@ -33,6 +33,8 @@ My Bankruptcy Attorney Is Not Returning My Calls - What Do I Do?
 A guide for bankruptcy clients | Part of the Open Bankruptcy Project
 
 You are not alone. "My attorney won't return my calls" is one of the most common complaints in consumer bankruptcy. It does not mean your case is doomed - but it does mean you need to take action to protect yourself. This page walks through your options step by step.
+
+Start by trying multiple contact methods - email, office phone, and a written letter. If your attorney has a receptionist or paralegal, contact them directly. If you still cannot reach your attorney after reasonable attempts over 1-2 weeks, you have the right to fire your attorney and hire a new one, request that the court allow a substitution of counsel, file a complaint with your state bar association, or proceed pro se (representing yourself).
 
 Before You Escalate: Try Everything
 
@@ -215,24 +217,31 @@ Free bankruptcy information guide
 
 bankruptcycost.com →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-prosedebtors.org - Part of the Open Bankruptcy Project
+Real information, no strings.
 
-Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
-
-Screener
-Research
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
 Automatic Stay
 341 Meeting
+Exemptions by State
 Means Test
-Relief from Stay
-♥ Sponsor
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Not affiliated with any law firm or government agency.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -264,7 +273,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Chapter 13 Without a Lawyer: Why It's So Hard - Pro Se Debtors
+## Chapter 13 Pro Se [2026]: Why 11 USC 1322 Plan Drafting Without Counsel Has 90%+ Dismissal Rate
 Source: https://prosedebtors.org/chapter-13-pro-se.html
 
 Skip to content
@@ -295,6 +304,8 @@ Chapter 13 bankruptcy is fundamentally different from Chapter 7. Instead of a qu
 For represented debtors, the national Chapter 13 completion rate hovers around 33% to 40%. For pro se filers, completion rates drop to below 10%. In many districts, not a single pro se Chapter 13 case reaches discharge in a given year.
 
 You can see the data yourself on our interactive pro se rate map, which shows pro se filing and success rates across all 94 federal bankruptcy districts.
+
+Chapter 7 is a snapshot: you file your paperwork, attend one meeting, and wait for discharge. Chapter 13 is a marathon. Here are the specific challenges that make it nearly impossible without legal training:
 
 Why Chapter 13 Is So Much Harder Than Chapter 7
 
@@ -457,28 +468,31 @@ Free bankruptcy information guide
 
 bankruptcycost.com →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project
+Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-727a8.com
-524injunction.com
-filebankruptcyagain.com
-bankruptcycost.com
-bankruptcydismissed.com
-341meeting.com
-prosedebtors.org
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 prosedebtors.org. Open data, open tools, open access to justice.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-PACER cases made free through RECAP: 0 of 37.9 million
+Privacy |
+Terms
 
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -541,6 +555,8 @@ A step-by-step guide to the most common pro se bankruptcy filing
 Chapter 7 is the most feasible type of bankruptcy to file without a lawyer. It is a liquidation proceeding - the trustee reviews your assets, determines if anything can be sold to pay creditors, and if not (the vast majority of consumer cases are "no-asset"), your eligible debts are discharged. The entire process typically takes 3 to 4 months from filing to discharge.
 
 That said, "more feasible" does not mean "easy." You are responsible for correctly completing every form, meeting every deadline, and attending every required proceeding. Here is what the process looks like, step by step.
+
+Most unsecured debts are discharged, including credit cards, medical bills, personal loans, and utility arrears. Debts that typically cannot be discharged include student loans (except in hardship cases), most taxes, child support, alimony, and debts from fraud or willful injury.
 
 Step 1: Determine Eligibility
 
@@ -676,7 +692,7 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -729,28 +745,31 @@ Free bankruptcy information guide
 
 bankruptcycost.com →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project
+Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-727a8.com
-524injunction.com
-filebankruptcyagain.com
-bankruptcycost.com
-bankruptcydismissed.com
-341meeting.com
-prosedebtors.org
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 prosedebtors.org. Open data, open tools, open access to justice.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-PACER cases made free through RECAP: 0 of 37.9 million
+Privacy |
+Terms
 
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -807,6 +826,8 @@ Pro Se Filing Checklist
 Everything you need to file - organized step by step
 
 Network › Pro Se Debtors › Filing Checklist
+
+You need: credit counseling certificate, petition, all schedules (A/B through J), statement of financial affairs, means test form, and a creditor matrix. For Chapter 13, add a proposed plan.
 
 Phase 1: Before Filing
 
@@ -921,7 +942,7 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -982,23 +1003,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-howtofilebankruptcy.org
-meanstest.org
-341meeting.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1012,15 +1043,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors
+## Pro Se Bankruptcy Mistakes [2026]: Top 10 Dismissal Drivers Including Schedules, 521(a) Documents, and 341 Meetings
 Source: https://prosedebtors.org/common-mistakes.html
 
 Skip to main content
@@ -1045,6 +1076,8 @@ Common Mistakes to Avoid
 The top 10 errors that lead to case dismissal - and how to prevent them
 
 Network › Pro Se Debtors › Common Mistakes
+
+Missing the 14-day document deadline, incomplete schedules, wrong exemptions, missing the 341 meeting, and not filing the debtor education certificate are the most common errors that lead to dismissal.
 
 Mistake 1: Missing the 14-Day Document Deadline
 
@@ -1178,23 +1211,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-howtofilebankruptcy.org
-meanstest.org
-341meeting.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1208,15 +1251,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Bankruptcy Court Procedures for Pro Se Debtors
+## Bankruptcy Court Procedures for Pro Se Filers [2026]: Local Rules, ECF Filing, and 341 Meeting Conduct
 Source: https://prosedebtors.org/court-procedures.html
 
 Skip to main content
@@ -1241,6 +1284,8 @@ Court Procedures for Pro Se Debtors
 What to expect at the 341 meeting, hearings, and how to conduct yourself
 
 Network › Pro Se Debtors › Court Procedures
+
+The trustee puts you under oath and asks questions about your petition, assets, income, and debts for about 5-15 minutes. Creditors may attend but rarely do in consumer cases.
 
 The 341 Meeting of Creditors
 
@@ -1329,7 +1374,7 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -1392,23 +1437,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-howtofilebankruptcy.org
-meanstest.org
-341meeting.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1422,15 +1477,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Bankruptcy Filing Document Checklist - Every Form and Document You Need - Pro Se Debtors
+## Bankruptcy Pro Se Document Checklist [2026]: Every 11 USC 521(a) Form and Required Schedule
 Source: https://prosedebtors.org/document-checklist.html
 
 Skip to main content
@@ -1455,6 +1510,8 @@ Bankruptcy Filing Document Checklist
 Every form, document, and supporting record you need to file Chapter 7 or Chapter 13 bankruptcy - organized by category with deadlines and common mistakes to avoid.
 
 Home › Document Checklist
+
+You need the Official Bankruptcy Forms (Voluntary Petition, Schedules A/B through J, Statement of Financial Affairs, means test form 122A-2 or 122C-2, and a credit counseling certificate), plus supporting documents including 2 years of federal tax returns, 6 months of pay stubs, 60 days of bank statements, vehicle titles, mortgage statements, insurance policies, retirement account statements, and documentation of any pending lawsuits. The exact requirements vary by chapter and district.
 
 Table of Contents
 
@@ -1988,7 +2045,7 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -2049,30 +2106,31 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Student Loan Forgiveness Programs -- studentloanforgive.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2096,7 +2154,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors
+## Pro Se Chapter 7 Forms Guide [2026]: Official Form 101, 122A, Schedules, and SOFA Walkthrough
 Source: https://prosedebtors.org/forms-guide.html
 
 Skip to main content
@@ -2121,6 +2179,8 @@ Bankruptcy Forms Guide
 Plain-language walk-through of every required Chapter 7 form
 
 Network › Pro Se Debtors › Forms Guide
+
+All official forms are available free at uscourts.gov/forms/bankruptcy-forms. They are fillable PDFs you can complete on your computer.
 
 Where to Get the Forms
 
@@ -2193,7 +2253,7 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Further Reading & Resources
 
@@ -2254,23 +2314,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-howtofilebankruptcy.org
-meanstest.org
-341meeting.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2284,9 +2354,9 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2319,6 +2389,8 @@ Free Bankruptcy Help: Legal Aid, Clinics, and Self-Help Resources
 You do not have to choose between paying thousands for a lawyer and going it completely alone
 
 If you cannot afford a bankruptcy attorney, several organizations and programs exist specifically to help. These range from full legal representation at no cost to limited assistance with forms and procedures. The key is knowing where to look and what each resource can and cannot do for you.
+
+Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify.
 
 Legal Aid Organizations
 
@@ -2479,28 +2551,31 @@ Free bankruptcy information guide
 
 bankruptcycost.com →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project
+Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-727a8.com
-524injunction.com
-filebankruptcyagain.com
-bankruptcycost.com
-bankruptcydismissed.com
-341meeting.com
-prosedebtors.org
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 prosedebtors.org. Open data, open tools, open access to justice.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-PACER cases made free through RECAP: 0 of 37.9 million
+Privacy |
+Terms
 
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-Privacy | Terms | Open Bankruptcy Project
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2537,7 +2612,7 @@ Free Means Test Calculator -- meanstest.org
 ## Pro Se Debtors - Self-Represented Bankruptcy Guide [2026]
 Source: https://prosedebtors.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -2556,11 +2631,13 @@ Forms Guide
 Court Procedures
 Local Rules
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Pro Se Debtors
 
 Free resources for pro se debtors - people filing Chapter 7 or Chapter 13 bankruptcy on their own, without attorney representation.
+
+Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify.
 
 What Is Pro Se Bankruptcy?
 
@@ -2796,36 +2873,33 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2839,15 +2913,45 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+Pro Se Debtor Rights
+
 ---
 
-## Local Bankruptcy Rules - Why They Matter for Pro Se Filers - Pro Se Debtors
+## Local Bankruptcy Rules for Pro Se Filers [2026]: Why District Rules Differ From Fed. R. Bankr. P.
 Source: https://prosedebtors.org/local-rules.html
 
 Skip to main content
@@ -2872,6 +2976,8 @@ Local Rules - Why They Matter
 Every court is different - knowing your local rules prevents costly mistakes
 
 Network › Pro Se Debtors › Local Rules
+
+Local rules contain court-specific requirements for formatting, filing procedures, and documentation that supplement the national rules. Missing local requirements is a common reason pro se cases are delayed.
 
 What Are Local Rules?
 
@@ -3011,23 +3117,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-howtofilebankruptcy.org
-meanstest.org
-341meeting.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -3041,15 +3157,15 @@ Sponsor this research
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Pro Se Debtor Rights in Bankruptcy Court - Pro Se Debtors
+## Pro Se Debtor Rights in Bankruptcy Court [2026]: ECF Filing Access, Hearing Appearance, and 28 USC 1654
 Source: https://prosedebtors.org/pro-se-debtor-rights.html
 
 prosedebtors.org
@@ -3109,17 +3225,33 @@ Rebuild Credit ·
 Buy a House After ·
 Buy a Car After
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Free bankruptcy education. Not legal advice.
+Real information, no strings.
 
-Home ·
-Rights ·
-Resources ·
-FAQ
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3193,7 +3325,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -3203,6 +3335,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About prosedebtors.org
+Source: https://prosedebtors.org/about.html
+
+prosedebtors.org
+
+Home
+About
+Privacy
+
+About prosedebtors.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+prosedebtors.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
